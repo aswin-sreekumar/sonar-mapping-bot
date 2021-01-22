@@ -11,5 +11,5 @@ bot_position_feedback.ino - Arduino code to check bot's position feedback on gra
 
 sonar_mapping_main.ino - main arduino code for bot control, scanning and sending data to the python script
 
-Project documentation : https://drive.google.com/file/d/1zc0qHPEwykU3vaZfMe2obiM-7MfIT7Va/view?usp=sharing
+[Project documentation](https://drive.google.com/file/d/1zc0qHPEwykU3vaZfMe2obiM-7MfIT7Va/view?usp=sharing)
 
